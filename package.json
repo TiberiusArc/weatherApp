@@ -1,0 +1,16 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ross",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "request": "^2.83.0",
+    "yargs": "^9.0.1"
+  }
+}
